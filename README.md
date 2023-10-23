@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Lera</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Future backend developer from Russia 🇷🇺</h3>
 
 <!--
 **LeraFrans/LeraFrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### На протяжении полугода обучаюсь в "Школе 21" от Сбера. 
-#### Студентка Сеченовского университета, направлений "Разработчки цифровых медицинских сервисов" и "Лечебное дело".
+#### На протяжении полугода обучаюсь в "Школе 21" от Сбера. Студентка Сеченовского университета, направлений "Разработчки цифровых медицинских сервисов" и "Лечебное дело".
 
-Мой стек
+Мой стек\n
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
