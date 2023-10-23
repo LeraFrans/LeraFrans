@@ -54,4 +54,5 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeraFrans&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeraFrans&theme=solarized_dark)
 
-### В будущем планирую изучить и была бы рада опыту работы с Golang и микросервисной архитектурой.
+### В будущем планирую изучить и была бы рада опыту работы с Golang и микросервисной архитектурой. (Want to be cool backend developer)
+
