@@ -32,8 +32,22 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
+На протяжении полугода обучаюсь в "Школе 21" от Сбера. Студентка Сеченовского университета, направлений "Разработчки цифровых медицинских сервисов" и "Лечебное дело".
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeraFrans&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Владею
+- Си и написанием программ, основанных на структурно-функциональном подходе.
+- Написанием unit-тестов с использованием библиотеки Check.
+- Git и работой с командной строкой.
+- Основами теории по сетям и различным протоколам клиент-серверной архитектуры.
+
+
+Когда-то трjгала Python и Kotlin (только на базовом уровне).
+
+На данный момент изучаю
+- С++ и ООП.
+- SQL и проектирование баз данных
+
+В будущем планирую изучить и была бы рада опыту работы с Golang и микросервисной архитектурой.
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeraFrans&theme=solarized_dark)
