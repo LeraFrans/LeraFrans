@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Будущий backend разработчик)
+
+### Будущий backend разработчик)
 ### На протяжении полугода обучаюсь в "Школе 21" от Сбера. Студентка Сеченовского университета, направлений "Разработчки цифровых медицинских сервисов" и "Лечебное дело".
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
