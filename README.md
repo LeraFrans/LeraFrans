@@ -56,3 +56,8 @@ Here are some ideas to get you started:
 
 ### В будущем планирую изучить и была бы рада опыту работы с Golang и микросервисной архитектурой. (Want to be cool backend developer)
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/LeraFrans/count.svg" />
+</p>
+
