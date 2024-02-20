@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-### На протяжении года обучаюсь в "Школе 21" от Сбера. Студентка ПМГМУ им.Сеченова направлений "Разработчик цифровых медицинских сервисов" и "Лечебное дело"
+### Втрой год обученяи Core program "Школы 21" от Сбера. Студентка ПМГМУ им.Сеченова направлений "Разработчик цифровых медицинских сервисов" и "Лечебное дело"
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 Когда-то трогала Python и Kotlin (только на базовом уровне).
 
 
-### На данный момент изучаю
+### На данный момент изучаю и работаю с
 - С++ и ООП.
-- Проектирование баз данных.
-- Разработку оконных приложений с помощью QT Creator.
+- Проектированием баз данных.
+- Разработкой оконных приложений с помощью QT Creator.
 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeraFrans&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeraFrans&theme=solarized_dark)
 
-### В будущем планирую изучить и была бы рада опыту работы с Golang и микросервисной архитектурой. (Want to be cool backend developer)
+### Планирую изучить и была бы рада опыту работы с Golang, высоконагруженными системами и микросервисной архитектурой. (Want to be cool backend developer)
 
 <p align="center"> 
   Visitors count<br>
