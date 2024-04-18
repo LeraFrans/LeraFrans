@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Втрой год обученяи Core program "Школы 21" от Сбера. Студентка ПМГМУ им.Сеченова направлений "Разработчик цифровых медицинских сервисов" и "Лечебное дело"
+### Втрой год обучения Core program "Школы 21" от Сбера. Студентка ПМГМУ им.Сеченова направлений "Разработчик цифровых медицинских сервисов" и "Лечебное дело"
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
