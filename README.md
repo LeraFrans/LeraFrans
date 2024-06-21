@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Втрой год обучения Core program "Школы 21" от Сбера. Студентка ПМГМУ им.Сеченова направлений "Разработчик цифровых медицинских сервисов" и "Лечебное дело"
+### Golang-developer. Второй год обучения Core program "Школы 21" от Сбера. Студентка ПМГМУ им.Сеченова направлений "Разработчик цифровых медицинских сервисов" и "Лечебное дело"
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,17 +32,14 @@ Here are some ideas to get you started:
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 
-### На данный момент изучаю и работаю с
-- Разработкой микросервисных приложений на Golang.
-- С++ и ООП.
-- Основами администрирования Linux.
-
-### Также владею
-- Работой с PostgreSQL (оптимизация запросов, транзакции)
-- Си и написанием программ, основанных на структурно-функциональном подходе.
-- Написанием unit-тестов с использованием Check.h и GoogleTest 
-- Git и работой с командной строкой.
-- Основами теории по сетям и различным протоколам клиент-серверной архитектуры.
+### Мой стэк:
+- Golang (многопоточность, клиент-серверные приложения, чистая архитектура).
+- СУБД (PostgreSQL) (Transactions, ACID).
+- C++ и C (OOП, SOLID).
+- REST API, HTTP, gRPC.
+- Docker, Redis.
+- Администрирование UNIX-Like систем.
+- Unit-тестирование.
 
 Когда-то давно трогала Python и Kotlin (только на базовом уровне).
 
@@ -50,7 +47,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeraFrans&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeraFrans&theme=solarized_dark)
 
-### Была бы рада опыту работы с Golang, высоконагруженными системами и микросервисной архитектурой.
 
 <p align="center"> 
   Visitors count<br>
